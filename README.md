@@ -17,3 +17,5 @@
 - contoh:
     - https
     - dynamic configuration
+- parametize your docker
+- documenting your container
