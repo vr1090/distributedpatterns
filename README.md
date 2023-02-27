@@ -13,3 +13,7 @@
 - satu buat main application
 - satu lagi buat augmented and improve the main apps
 - main apps mungkin tidak tahu
+- atomic container group ... deploy barengan
+- contoh:
+    - https
+    - dynamic configuration
